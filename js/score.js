@@ -1,4 +1,4 @@
-localStorage.clear();
+//localStorage.clear();
 
 function res(){
     document.location.href = "final.html";
